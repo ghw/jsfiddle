@@ -4,5 +4,5 @@ description: 七牛云存储上凭证生成演示
 authors:
   - Qiniu
 resources:
-  - http://qtestbucket.qiniudn.com/demo/ext/resources/ext-theme-neptune/ext-theme-neptune-all.css
-  - http://qtestbucket.qiniudn.com/demo/CryptoJS.js
+  - http://cdn.bootcss.com/extjs/4.2.1/resources/ext-theme-neptune/ext-theme-neptune-all.css
+  - CryptoJS.js
